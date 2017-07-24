@@ -1,6 +1,6 @@
 # vue-follow-elm
-##list
--11
--22
--33
-
+<table>
+    <tr>
+        <td>Foo</td>
+    </tr>
+</table>
